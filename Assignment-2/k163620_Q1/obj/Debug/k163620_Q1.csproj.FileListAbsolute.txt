@@ -1,0 +1,7 @@
+E:\Sem7\IPT\Ass2\k163620_Q1\bin\Debug\k163620_Q1.exe.config
+E:\Sem7\IPT\Ass2\k163620_Q1\bin\Debug\k163620_Q1.exe
+E:\Sem7\IPT\Ass2\k163620_Q1\bin\Debug\k163620_Q1.pdb
+E:\Sem7\IPT\Ass2\k163620_Q1\obj\Debug\k163620_Q1.csprojAssemblyReference.cache
+E:\Sem7\IPT\Ass2\k163620_Q1\obj\Debug\k163620_Q1.csproj.CoreCompileInputs.cache
+E:\Sem7\IPT\Ass2\k163620_Q1\obj\Debug\k163620_Q1.exe
+E:\Sem7\IPT\Ass2\k163620_Q1\obj\Debug\k163620_Q1.pdb

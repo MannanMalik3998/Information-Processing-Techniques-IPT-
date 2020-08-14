@@ -1,0 +1,9 @@
+E:\Sem7\IPT\Ass2\k163620_Q5\Service2\bin\Debug\Service2.exe.config
+E:\Sem7\IPT\Ass2\k163620_Q5\Service2\bin\Debug\Service2.exe
+E:\Sem7\IPT\Ass2\k163620_Q5\Service2\bin\Debug\Service2.pdb
+E:\Sem7\IPT\Ass2\k163620_Q5\Service2\obj\Debug\Service2.ProjectInstaller.resources
+E:\Sem7\IPT\Ass2\k163620_Q5\Service2\obj\Debug\Service2.csproj.GenerateResource.cache
+E:\Sem7\IPT\Ass2\k163620_Q5\Service2\obj\Debug\Service2.csproj.CoreCompileInputs.cache
+E:\Sem7\IPT\Ass2\k163620_Q5\Service2\obj\Debug\Service2.exe
+E:\Sem7\IPT\Ass2\k163620_Q5\Service2\obj\Debug\Service2.pdb
+E:\Sem7\IPT\Ass2\k163620_Q5\Service2\obj\Debug\Service2.csprojAssemblyReference.cache

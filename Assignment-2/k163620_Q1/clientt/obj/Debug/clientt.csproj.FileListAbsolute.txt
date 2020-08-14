@@ -1,0 +1,7 @@
+E:\Sem7\IPT\Ass2\k163620_Q1\clientt\bin\Debug\clientt.exe.config
+E:\Sem7\IPT\Ass2\k163620_Q1\clientt\bin\Debug\clientt.exe
+E:\Sem7\IPT\Ass2\k163620_Q1\clientt\bin\Debug\clientt.pdb
+E:\Sem7\IPT\Ass2\k163620_Q1\clientt\obj\Debug\clientt.csprojAssemblyReference.cache
+E:\Sem7\IPT\Ass2\k163620_Q1\clientt\obj\Debug\clientt.csproj.CoreCompileInputs.cache
+E:\Sem7\IPT\Ass2\k163620_Q1\clientt\obj\Debug\clientt.exe
+E:\Sem7\IPT\Ass2\k163620_Q1\clientt\obj\Debug\clientt.pdb
