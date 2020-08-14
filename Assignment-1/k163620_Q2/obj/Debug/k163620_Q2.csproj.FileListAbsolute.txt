@@ -1,0 +1,8 @@
+E:\Sem7\IPT\Ass1\k163620_Q2\obj\Debug\k163620_Q2.csprojAssemblyReference.cache
+E:\Sem7\IPT\Ass1\k163620_Q2\obj\Debug\k163620_Q2.csproj.CoreCompileInputs.cache
+E:\Sem7\IPT\Ass1\k163620_Q2\bin\Debug\k163620_Q2.exe.config
+E:\Sem7\IPT\Ass1\k163620_Q2\bin\Debug\k163620_Q2.exe
+E:\Sem7\IPT\Ass1\k163620_Q2\bin\Debug\k163620_Q2.pdb
+E:\Sem7\IPT\Ass1\k163620_Q2\obj\Debug\k163620_Q2.exe
+E:\Sem7\IPT\Ass1\k163620_Q2\obj\Debug\k163620_Q2.pdb
+E:\Sem7\IPT\Ass1\k163620_Q2\bin\Debug\GS.txt

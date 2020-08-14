@@ -1,0 +1,10 @@
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q5\bin\Debug\k163620_Q5.exe.config
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q5\bin\Debug\k163620_Q5.exe
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q5\bin\Debug\k163620_Q5.pdb
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q5\obj\Debug\k163620_Q5.csprojAssemblyReference.cache
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q5\obj\Debug\k163620_Q5.Form1.resources
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q5\obj\Debug\k163620_Q5.Properties.Resources.resources
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q5\obj\Debug\k163620_Q5.csproj.GenerateResource.cache
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q5\obj\Debug\k163620_Q5.csproj.CoreCompileInputs.cache
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q5\obj\Debug\k163620_Q5.exe
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q5\obj\Debug\k163620_Q5.pdb

@@ -1,0 +1,7 @@
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q6\bin\k163620_Q6.dll.config
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q6\bin\k163620_Q6.dll
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q6\bin\k163620_Q6.pdb
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q6\obj\Debug\k163620_Q6.csprojAssemblyReference.cache
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q6\obj\Debug\k163620_Q6.csproj.CoreCompileInputs.cache
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q6\obj\Debug\k163620_Q6.dll
+E:\Sem7\IPT\Lab\k163620_lab2\k163620_Q6\obj\Debug\k163620_Q6.pdb

@@ -1,0 +1,10 @@
+E:\Sem7\IPT\Ass1\k163620_Q4\bin\Debug\k163620_Q4.exe.config
+E:\Sem7\IPT\Ass1\k163620_Q4\bin\Debug\k163620_Q4.exe
+E:\Sem7\IPT\Ass1\k163620_Q4\bin\Debug\k163620_Q4.pdb
+E:\Sem7\IPT\Ass1\k163620_Q4\obj\Debug\k163620_Q4.csprojAssemblyReference.cache
+E:\Sem7\IPT\Ass1\k163620_Q4\obj\Debug\k163620_Q4.csproj.CoreCompileInputs.cache
+E:\Sem7\IPT\Ass1\k163620_Q4\obj\Debug\k163620_Q4.exe
+E:\Sem7\IPT\Ass1\k163620_Q4\obj\Debug\k163620_Q4.pdb
+E:\Sem7\IPT\Ass1\k163620_Q4\bin\Debug\EPPlus.dll
+E:\Sem7\IPT\Ass1\k163620_Q4\bin\Debug\EPPlus.xml
+E:\Sem7\IPT\Ass1\k163620_Q4\obj\Debug\k163620_Q4.csproj.CopyComplete
